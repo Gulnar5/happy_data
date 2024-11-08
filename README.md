@@ -40,6 +40,7 @@ ________________________________________________________________________________
 
 Page 2: Country-wise Happiness Indicators
 
+![Screenshot 2024-11-08 131206](https://github.com/user-attachments/assets/f56f7d75-5aa1-44ea-947e-6097de059e01)
 
 
 The second page delves deeper into specific happiness-related metrics for each country. It includes:
