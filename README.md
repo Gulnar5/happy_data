@@ -25,6 +25,8 @@ The Power BI dashboard is divided into two main pages. Each page contains intera
 
 Page 1: Country & Happiness Insights
 
+![Screenshot 2024-11-08 131152](https://github.com/user-attachments/assets/5c69af49-0f06-4531-9e4c-4ccc08b7d952)
+
 
 This page focuses on presenting general country-level insights and happiness indicators. It includes:
 
